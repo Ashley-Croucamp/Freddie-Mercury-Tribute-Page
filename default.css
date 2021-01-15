@@ -1,0 +1,39 @@
+/* font-family: 'Orbitron', sans-serif;
+font-family: 'Roboto Mono', monospace; */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #A7C7E7;
+}
+#title {
+  font-family: 'Orbitron', sans-serif;
+  text-align: center;
+  font-size: 50px;
+  padding-top: 15px;
+}
+
+#image {
+  width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  text-align: justify;
+  font-family: 'Roboto Mono', monospace;
+}
+#tribute-info {
+  text-align: justify;
+  font-family: 'Roboto Mono', monospace;
+}
+
+a {
+  color: #4169E1;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+}
+
+a:hover {
+  color: red;
+}
